@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Roushan and I love to code! 👋
 
 <!--
 **RoushanSinghh/RoushanSinghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
